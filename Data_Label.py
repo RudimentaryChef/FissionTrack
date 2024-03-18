@@ -41,6 +41,8 @@ into a single numpy array.
 
 Our Labels = Houses, Roads, Water
 """
+
+#NOTE: I am only leaving this here as a sort of scratch for my own refferal
 import os
 from skimage import io
 import numpy as np
