@@ -1,2 +1,2 @@
 # FissionTrack
-Look at fine tune.ipynb
+Look at workingcopy.ipynb
